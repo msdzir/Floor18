@@ -1,0 +1,8 @@
+RoomA: RoomB, RoomC, RoomD
+RoomB: RoomA, RoomE
+RoomC: RoomA, RoomF
+RoomD: RoomA, RoomG
+RoomE: RoomB, RoomH
+RoomF: RoomC, RoomH
+RoomG: RoomD, RoomH
+RoomH: RoomE, RoomF, RoomG

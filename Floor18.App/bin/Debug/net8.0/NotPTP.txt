@@ -1,0 +1,3 @@
+RoomA: RoomB, RoomC
+RoomB: RoomA, RoomC
+RoomC: RoomA, RoomB

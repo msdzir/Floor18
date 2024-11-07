@@ -1,0 +1,8 @@
+RoomNW: RoomA, RoomB
+RoomNE: RoomB, RoomC
+RoomSW: RoomA, RoomD
+RoomSE: RoomC, RoomD
+RoomA: RoomNW, RoomSW, RoomB, RoomD
+RoomB: RoomNW, RoomNE, RoomA, RoomC
+RoomC: RoomNE, RoomSE, RoomB, RoomD
+RoomD: RoomSW, RoomSE, RoomA, RoomC
